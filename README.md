@@ -1,5 +1,5 @@
 # Backpropagation-algorithm-from-scratch
-Implementation of backpropagation algorithm in python from scratch to classify points inside and outside the circle.
+Implementation of backpropagation algorithm in python from scratch to classify points inside and outside the circle. <br/>
 <br/>
 Note: <br/>
 The network build here is of one hidden layer.<br/>
