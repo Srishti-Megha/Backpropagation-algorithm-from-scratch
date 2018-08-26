@@ -5,13 +5,13 @@ Note: <br/>
 The network build here is of one hidden layer.<br/>
 The activation function used is sigmoid activation function.
 
-# Requirements:
+## Requirements:
 Python 3.6. <br/>
 NumPy. <br/>
 OpenCV 2. <br/>
 matplotlib <br/> 
 
-# Files:
+## Files:
 gen_data.py: Generate points inside and outside the points of the circle of radius 4 in the range (-5, 5). <br/>
 feedforward.py: Calculates preactivation of neurons in hidden layer, output layer and output of neurons in hidden layer, output layer. <br/>
 backpropagation.py: Calculates updated weights and biases after the execution of backpropagation algorithm. <br/>
